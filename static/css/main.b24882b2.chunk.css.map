@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,KACI,YAAa,CACb,cACJ,CAEA,OACI,SACJ","file":"main.b24882b2.chunk.css","sourcesContent":[".app {\n    display: flex;\n    flex-wrap: wrap;\n}\n\n.chart {\n    width: 33%;\n}"]}
